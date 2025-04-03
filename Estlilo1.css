@@ -1,0 +1,15 @@
+footer{
+    background-color: black;
+    color: white;
+    height: 160px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
+
+body{
+    position: relative;
+    border: 1px solid;
+    min-height: 230vh;
+}
